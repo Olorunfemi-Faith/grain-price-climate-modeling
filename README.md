@@ -20,10 +20,10 @@ Raw climate and market data contained redundant metadata, structural mismatches,
 <summary>🛰️ Click to view Before/After: <b>NDVI (Vegetation Index) Dataset</b></summary>
 
 #### **Before: Raw Satellite Readings**
-![Raw NDVI data](images/ndvi_raw.png)
+![Raw NDVI data](image/ndvi_raw.png)
 
 #### **After: Clean Monthly VIM Matrix**
-![Clean NDVI data](images/ndvi_clean.png)
+![Clean NDVI data](image/ndvi_clean.png)
 </details>
 
 <details>
