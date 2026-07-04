@@ -35,3 +35,13 @@ Raw climate and market data contained redundant metadata, structural mismatches,
 #### **After: Monthly Precipitation Baselines**
 ![Clean Rainfall data](images/rainfall_clean.png)
 </details>
+
+<details>
+<summary>📈 Click to view Before/After: <b>CPI (Inflation Index) Dataset</b></summary>
+
+#### **Before: Raw Annual Macro Index**
+![Raw CPI data](images/cpi_raw.png)
+
+#### **After: Clean Scaled Inflation Mappings**
+![Clean CPI data](images/cpi_clean.png)
+</details>
