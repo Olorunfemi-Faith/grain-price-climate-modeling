@@ -12,11 +12,13 @@ The project was carried out in six distinct phases.
 - [ ] **Phase 1: Overview/ Clarifying the Problem**
 <details>
 <summary><kbd> view phase 1 </kbd></summary>
+</details>
 <br>
       
 - [ ] **Phase 2: Data Collection**
 <details>
 <summary><kbd> view phase 2 </kbd></summary>
+</details>   
 <br>
       
 - [ ] **Phase 3: Data Cleaning** (Excel)
