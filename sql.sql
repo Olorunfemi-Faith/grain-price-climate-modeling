@@ -82,7 +82,7 @@ CREATE TABLE rainfall (
 -- We start with the NDVI table as our baseline to protect weather records.
 -- Then we cleanly layer on rainfall, food prices, and CPI one by one.
 
-CREATE VIEW v1_combined_raw_base AS
+CREATE VIEW v1_join AS
 SELECT 
     n.state,
     n.year,
