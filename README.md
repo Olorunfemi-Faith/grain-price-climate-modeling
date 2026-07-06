@@ -97,30 +97,30 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 <details>
 <summary><kbd> Cleaning NDVI Dataset</kbd></summary>
 
-#### **Before: Raw Satellite Readings**
+#### **Before: Cleaning**
 ![Raw NDVI data](excel/ndvi_raw.png)
 
-#### **After: Clean Monthly VIM Matrix**
+#### **After Cleaning**
 ![Clean NDVI data](excel/ndvi_clean.png)
 </details>
 
 <details>
 <summary><kbd> Cleaning Rainfall Dataset</kbd></summary>
 
-#### **Before: Historical Daily Records**
+#### **Before Cleaning **
 ![Raw Rainfall data](excel/rainfall_raw.png)
 
-#### **After: Monthly Precipitation Baselines**
+#### **After Cleaning**
 ![Clean Rainfall data](excel/rainfall_clean.png)
 </details>
 
 <details>
 <summary><kbd> Cleaning CPI Dataset</kbd></summary>
 
-#### **Before: Raw Annual Macro Index**
+#### **Before Cleaning**
 ![Raw CPI data](excel/cpi_raw.png)
 
-#### **After: Clean Scaled Inflation Mappings**
+#### **After Cleaning**
 ![Clean CPI data](excel/cpi_clean.png)
 </details>
 </details>
