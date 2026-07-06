@@ -56,7 +56,6 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 
 <details>
 <summary> Click to view Before/After: <b>CPI (Inflation Index) Dataset</b></summary>
-</details>
 
 
 #### **Before: Raw Annual Macro Index**
@@ -64,6 +63,7 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 
 #### **After: Clean Scaled Inflation Mappings**
 ![Clean CPI data](excel/cpi_clean.png)
+</details>
 </details>
 
 
