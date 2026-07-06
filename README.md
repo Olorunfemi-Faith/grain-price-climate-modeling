@@ -83,7 +83,7 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 </details>
 
 <details>
-<summary> Click to view Before/After: <b>NDVI (Vegetation Index) Dataset</b></summary>
+<summary><kbd> Cleaning NDVI Dataset</kbd></summary>
 
 #### **Before: Raw Satellite Readings**
 ![Raw NDVI data](excel/ndvi_raw.png)
@@ -93,7 +93,7 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 </details>
 
 <details>
-<summary> Click to view Before/After: <b>Rainfall Dataset</b></summary>
+<summary><kbd> Cleaning Rainfall Dataset</kbd></summary>
 
 #### **Before: Historical Daily Records**
 ![Raw Rainfall data](excel/rainfall_raw.png)
@@ -103,8 +103,7 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 </details>
 
 <details>
-<summary> Click to view Before/After: <b>CPI (Inflation Index) Dataset</b></summary>
-
+<summary><kbd> Cleaning CPI Dataset</kbd></summary>
 
 #### **Before: Raw Annual Macro Index**
 ![Raw CPI data](excel/cpi_raw.png)
