@@ -73,10 +73,10 @@ Raw climate and market data contained redundant metadata, structural mismatches,
       </tr>
 </table>
 
-#### **Before: Granular Multi-Market Mismatch**
+#### **Before Cleaning**
 ![Raw food prices data](excel/food_price_raw.png)
 
-#### **After: Standardized Monthly Baseline**
+#### **After Cleaning**
 ![Clean food prices data](excel/food_price_clean.png)
 
 #### **Data Cleaning Steps Executed**
