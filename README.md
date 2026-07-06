@@ -1,7 +1,8 @@
 # HEATFLATION
 
 A data engineering and analytics project leveraging SQL, Excel, and Python to model the relationship between climate anomalies and grain price fluctuations in Nigeria
-## Data Engineering & ETL Pipeline
+
+## Summary of Heatflation
 
 To prepare our four distinct datasets (Food Prices, NDVI, Rainfall, and CPI) for analytical modeling, a structured multi-stage ETL pipeline was executed across Excel and PostgreSQL.
 
