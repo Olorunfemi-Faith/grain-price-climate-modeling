@@ -5,9 +5,20 @@ A data engineering and analytics project leveraging SQL, Excel, and Python to mo
 ## Heatflation Project Work flow
 
 The project was carried out in six distinct phases.
+<br>
+
+
 
 - [ ] **Phase 1: Overview/ Clarifying the Problem**
+<details>
+<summary><kbd> view phase 1 </kbd></summary>
+<br>
+      
 - [ ] **Phase 2: Data Collection**
+<details>
+<summary><kbd> view phase 2 </kbd></summary>
+<br>
+      
 - [ ] **Phase 3: Data Cleaning** (Excel)
       
 <details>
@@ -74,17 +85,27 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 ![Clean CPI data](excel/cpi_clean.png)
 </details>
 </details>
+<br>
+
+
 
 
 - [ ] **Phase 4: Data Analysis** (SQL)
-
 <details>
-<summary> Click to view <b>Phase 2</b> (SQL)</summary>
-   
+<summary><kbd> view phase 4 </kbd></summary>
+
+
 **Database Architecture:** [Master SQL Script](./sql.sql)
 </details>
-
+<br>
 
 - [ ] **Phase 5: Pattern Recognition** (Python)
-      
+<details>
+<summary><kbd> view phase 5 </kbd></summary>
+<br>
+ 
 - [ ] **Phase 6: Data Visualization and Storytelling**
+<details>
+<summary><kbd> view phase 6 </kbd></summary>
+
+      
