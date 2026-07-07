@@ -14,7 +14,7 @@ A data engineering and analytics project leveraging SQL, Excel, and Python to mo
 
 
 
-- [ ] Phase 1: **The Problem**
+- [x] Phase 1: **The Problem**
 <details>
 <summary><kbd> view phase 1 </kbd></summary>
 </details>
