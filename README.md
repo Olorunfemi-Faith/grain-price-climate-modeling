@@ -197,7 +197,6 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 <summary> Conclusion </summary>
 </details>
 
-<br>
 
 <details>
 <summary> Reference </summary>
