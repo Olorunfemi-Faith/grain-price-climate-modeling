@@ -189,5 +189,17 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 - [ ] Phase 6: **Data Visualization and Storytelling**
 <details>
 <summary><kbd> view phase 6 </kbd></summary>
+</details>
+
+<details>
+<summary> Conclusion </summary>
+</details>
+
+
+<details>
+<summary> Reference </summary>
+</details>
+
+
 
       
