@@ -30,7 +30,6 @@ A data engineering and analytics project leveraging SQL, Excel, and Python to mo
 <details>
 <summary><kbd> view phase 2 </kbd></summary>
 </details>   
-<br>
 
 
 
@@ -152,7 +151,6 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 
 </details>
 </details>
-<br>
 
 
 
@@ -167,7 +165,6 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 
 **Database Architecture:** [SQL Script](./sql.sql)
 </details>
-<br>
 
 
 
@@ -178,7 +175,6 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 <details>
 <summary><kbd> view phase 5 </kbd></summary>
 </details>
-<br>
 
 
 
@@ -190,7 +186,6 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 <summary><kbd> view phase 6 </kbd></summary>
 </details>
 
-<br>
 
 <details>
 <summary> Conclusion </summary>
