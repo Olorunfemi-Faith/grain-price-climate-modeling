@@ -66,10 +66,10 @@ Raw climate and market data contained redundant metadata, structural mismatches,
   </tr>
   <tr>
     <td valign="top">
-      <img src="excel/food_price_raw.png" alt="Before Cleaning Data" width="100%">
+      <img src="excel/food_price_raw_1.png" alt="Before Cleaning Data" width="100%">
     </td>
     <td valign="top">
-      <img src="excel/food_price_clean.png" alt="After Cleaning Data" width="100%">
+      <img src="excel/food_price_clean_1.png" alt="After Cleaning Data" width="100%">
     </td>
   </tr>
 </table>
@@ -100,10 +100,10 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
   </tr>
   <tr>
     <td valign="top">
-      <img src="excel/ndvi_raw.png" alt="Before Cleaning Data" width="100%">
+      <img src="excel/ndvi_raw_1.png" alt="Before Cleaning Data" width="100%">
     </td>
     <td valign="top">
-      <img src="excel/ndvi_clean.png" alt="After Cleaning Data" width="100%">
+      <img src="excel/ndvi_clean_1.png" alt="After Cleaning Data" width="100%">
     </td>
   </tr>
 </table>
@@ -120,10 +120,10 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
   </tr>
   <tr>
     <td valign="top">
-      <img src="excel/rainfall_raw.png" alt="Before Cleaning Data" width="100%">
+      <img src="excel/rainfall_raw_1.png" alt="Before Cleaning Data" width="100%">
     </td>
     <td valign="top">
-      <img src="excel/rainfall_clean.png" alt="After Cleaning Data" width="100%">
+      <img src="excel/rainfall_clean_1.png" alt="After Cleaning Data" width="100%">
     </td>
   </tr>
 </table>
@@ -142,10 +142,10 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
   </tr>
   <tr>
     <td valign="top">
-      <img src="excel/cpi_raw.png" alt="Before Cleaning Data" width="100%">
+      <img src="excel/cpi_raw_1.png" alt="Before Cleaning Data" width="100%">
     </td>
     <td valign="top">
-      <img src="excel/cpi_clean.png" alt="After Cleaning Data" width="100%">
+      <img src="excel/cpi_clean_1.png" alt="After Cleaning Data" width="100%">
     </td>
   </tr>
 </table>
