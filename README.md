@@ -59,6 +59,8 @@ Raw climate and market data contained redundant metadata, structural mismatches,
 <details>
 <summary><kbd> Cleaning Food Prices Dataset</kbd></summary>
 
+<br>
+
 <table>
   <tr>
     <th width="50%"><b>Before Cleaning</b></th>
@@ -93,6 +95,8 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 <details>
 <summary><kbd> Cleaning NDVI Dataset</kbd></summary>
 
+<br>
+
 <table>
   <tr>
     <th width="50%"><b>Before Cleaning</b></th>
@@ -112,6 +116,8 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 
 <details>
 <summary><kbd> Cleaning Rainfall Dataset</kbd></summary>
+
+<br>
 
 <table>
   <tr>
@@ -134,6 +140,8 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 
 <details>
 <summary><kbd> Cleaning CPI Dataset</kbd></summary>
+
+<br>
 
 <table>
   <tr>
